@@ -7,7 +7,7 @@ metadata:
 spec:
   project: customer
   source:
-    repoURL: https://github.com/argoproj/argocd-example-apps.git
+    repoURL: https://github.com/balls-sddc/itq-workshop-argocd.git
     targetRevision: master
     path: guestbook
   destination:
